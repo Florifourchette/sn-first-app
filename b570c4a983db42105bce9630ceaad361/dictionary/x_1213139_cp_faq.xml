@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5a7acdb183d302105bce9630ceaad3e9" label="FAQ" max_length="40" name="x_1213139_cp_faq" type="collection">
+        <element label="Answer" max_length="40" name="answer" type="string"/>
+        <element label="Question" max_length="200" name="question" type="string"/>
+    </element>
+</database>
