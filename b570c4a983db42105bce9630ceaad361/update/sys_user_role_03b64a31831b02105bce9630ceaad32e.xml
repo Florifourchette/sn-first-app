@@ -6,20 +6,20 @@
         <elevated_privilege>false</elevated_privilege>
         <grantable>true</grantable>
         <includes_roles/>
-        <name>x_1213139_cp.faq_user</name>
+        <name>x_1213139_cp.faq_edit</name>
         <scoped_admin>false</scoped_admin>
-        <suffix>faq_user</suffix>
+        <suffix>faq_edit</suffix>
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-10 09:49:02</sys_created_on>
-        <sys_id>ef0b8db183d302105bce9630ceaad323</sys_id>
+        <sys_created_on>2024-07-10 14:09:59</sys_created_on>
+        <sys_id>03b64a31831b02105bce9630ceaad32e</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>x_1213139_cp.faq_user</sys_name>
+        <sys_name>x_1213139_cp.faq_edit</sys_name>
         <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
         <sys_policy/>
         <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
-        <sys_update_name>sys_user_role_ef0b8db183d302105bce9630ceaad323</sys_update_name>
+        <sys_update_name>sys_user_role_03b64a31831b02105bce9630ceaad32e</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-10 09:49:02</sys_updated_on>
+        <sys_updated_on>2024-07-10 14:09:59</sys_updated_on>
     </sys_user_role>
 </record_update>

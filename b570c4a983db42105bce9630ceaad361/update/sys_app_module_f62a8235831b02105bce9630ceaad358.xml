@@ -8,12 +8,12 @@
         <hint/>
         <homepage/>
         <image/>
-        <link_type>LIST</link_type>
+        <link_type>SEPARATOR</link_type>
         <map_page/>
-        <mobile_title>FAQs</mobile_title>
+        <mobile_title>FAQ</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_1213139_cp_faq</name>
-        <order>5</order>
+        <name/>
+        <order>4</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -21,21 +21,21 @@
         <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-10 09:49:03</sys_created_on>
+        <sys_created_on>2024-07-10 14:25:22</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>7b0bc9f183d302105bce9630ceaad3d9</sys_id>
-        <sys_mod_count>5</sys_mod_count>
-        <sys_name>FAQs</sys_name>
+        <sys_id>f62a8235831b02105bce9630ceaad358</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>FAQ</sys_name>
         <sys_overrides/>
         <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
         <sys_policy/>
         <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
-        <sys_update_name>sys_app_module_7b0bc9f183d302105bce9630ceaad3d9</sys_update_name>
+        <sys_update_name>sys_app_module_f62a8235831b02105bce9630ceaad358</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-10 14:26:11</sys_updated_on>
+        <sys_updated_on>2024-07-10 14:26:08</sys_updated_on>
         <timeline_page/>
-        <title>FAQs</title>
+        <title>FAQ</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="DELETE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 09:49:03</sys_created_on>
+        <sys_id>3f0b0df183d302105bce9630ceaad30e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1213139_cp_faq.x_1213139_cp.faq_user</sys_name>
+        <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
+        <sys_security_acl display_value="x_1213139_cp_faq">bb0b0df183d302105bce9630ceaad30a</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_3f0b0df183d302105bce9630ceaad30e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 09:49:03</sys_updated_on>
+        <sys_user_role display_value="x_1213139_cp.faq_user" name="x_1213139_cp.faq_user">ef0b8db183d302105bce9630ceaad323</sys_user_role>
+    </sys_security_acl_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CP">b570c4a983db42105bce9630ceaad361</application>
+        <file_path/>
+        <instance_id>83770f171bb939506a85eb9b2d4bcbc6</instance_id>
+        <instance_name>dev187203</instance_name>
+        <name>sys_security_acl_role_3f0b0df183d302105bce9630ceaad30e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role"><sys_security_acl_role action="INSERT_OR_UPDATE"><sys_class_name>sys_security_acl_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-10 09:49:03</sys_created_on><sys_id>3f0b0df183d302105bce9630ceaad30e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1213139_cp_faq.x_1213139_cp.faq_user</sys_name><sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package><sys_policy/><sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope><sys_security_acl display_value="x_1213139_cp_faq">bb0b0df183d302105bce9630ceaad30a</sys_security_acl><sys_update_name>sys_security_acl_role_3f0b0df183d302105bce9630ceaad30e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-10 09:49:03</sys_updated_on><sys_user_role display_value="x_1213139_cp.faq_user" name="x_1213139_cp.faq_user">ef0b8db183d302105bce9630ceaad323</sys_user_role></sys_security_acl_role></record_update>]]></payload>
+        <payload_hash>1770452918</payload_hash>
+        <record_name>x_1213139_cp_faq.x_1213139_cp.faq_user</record_name>
+        <reverted_from/>
+        <source>3da754e1831f42105bce9630ceaad307</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 09:49:03</sys_created_on>
+        <sys_id>3f0b0df183d302105bce9630ceaad312</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1909c0be4260000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 09:49:03</sys_updated_on>
+        <type>Access Roles</type>
+        <update_guid>ff0b0df1f5d302108db19b876dddd511</update_guid>
+        <update_guid_history>ff0b0df1f5d302108db19b876dddd511:1770452918</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1213139_cp_faq.x_1213139_cp.faq_user">aa568efd83d702105bce9630ceaad3ee</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 14:08:06</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl_role">sys_security_acl_role</sys_db_object>
+        <sys_id>2f45155161e748a0903d68411a494400</sys_id>
+        <sys_metadata>3f0b0df183d302105bce9630ceaad30e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1213139_cp_faq.x_1213139_cp.faq_user</sys_name>
+        <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
+        <sys_parent display_value="x_1213139_cp_faq">bb0b0df183d302105bce9630ceaad30a</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
+        <sys_scope_delete display_value="">3baf784c7ce24b948f7376c5985ff224</sys_scope_delete>
+        <sys_update_name>sys_security_acl_role_3f0b0df183d302105bce9630ceaad30e</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_role_3f0b0df183d302105bce9630ceaad30e">3f0b0df183d302105bce9630ceaad312</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 14:08:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
