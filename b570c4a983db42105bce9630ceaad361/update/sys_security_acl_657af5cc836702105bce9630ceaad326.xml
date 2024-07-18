@@ -4,24 +4,24 @@
         <admin_overrides>true</admin_overrides>
         <advanced>true</advanced>
         <condition/>
-        <description>Allow read for records in x_1213139_cp_contracts, for users with roles (x_1213139_cp.cp.access, x_1213139_cp.contract.editor).</description>
+        <description>Default access control on x_1213139_cp_customer_service</description>
         <local_or_existing>Local</local_or_existing>
-        <name>x_1213139_cp_contracts</name>
-        <operation display_value="read">read</operation>
+        <name>x_1213139_cp_customer_service</name>
+        <operation display_value="write">write</operation>
         <script/>
         <security_attribute/>
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2024-07-09 09:47:06</sys_created_on>
-        <sys_id>6101002d83db42105bce9630ceaad323</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>x_1213139_cp_contracts</sys_name>
+        <sys_created_on>2024-07-17 13:02:29</sys_created_on>
+        <sys_id>657af5cc836702105bce9630ceaad326</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>x_1213139_cp_customer_service</sys_name>
         <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
         <sys_policy/>
         <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
-        <sys_update_name>sys_security_acl_6101002d83db42105bce9630ceaad323</sys_update_name>
+        <sys_update_name>sys_security_acl_657af5cc836702105bce9630ceaad326</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-18 14:26:27</sys_updated_on>
+        <sys_updated_on>2024-07-18 13:09:51</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
