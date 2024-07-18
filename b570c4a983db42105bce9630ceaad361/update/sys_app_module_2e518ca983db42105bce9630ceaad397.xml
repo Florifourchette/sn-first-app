@@ -18,14 +18,14 @@
         <query/>
         <report/>
         <require_confirmation>true</require_confirmation>
-        <roles/>
+        <roles>x_1213139_cp.contract.reader</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-07-09 09:48:32</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2e518ca983db42105bce9630ceaad397</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>contracts</sys_name>
         <sys_overrides/>
         <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
@@ -33,7 +33,7 @@
         <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
         <sys_update_name>sys_app_module_2e518ca983db42105bce9630ceaad397</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-07-09 09:48:32</sys_updated_on>
+        <sys_updated_on>2024-07-18 14:23:26</sys_updated_on>
         <timeline_page/>
         <title>contracts</title>
         <uncancelable>false</uncancelable>

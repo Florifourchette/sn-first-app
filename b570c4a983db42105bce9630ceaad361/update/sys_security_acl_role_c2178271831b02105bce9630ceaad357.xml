@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 14:11:32</sys_created_on>
+        <sys_id>c2178271831b02105bce9630ceaad357</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1213139_cp_faq.x_1213139_cp.faq_edit</sys_name>
+        <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
+        <sys_security_acl display_value="x_1213139_cp_faq">fb0b0df183d302105bce9630ceaad319</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c2178271831b02105bce9630ceaad357</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 14:11:32</sys_updated_on>
+        <sys_user_role display_value="x_1213139_cp.faq_edit" name="x_1213139_cp.faq_edit">03b64a31831b02105bce9630ceaad32e</sys_user_role>
+    </sys_security_acl_role>
+</record_update>

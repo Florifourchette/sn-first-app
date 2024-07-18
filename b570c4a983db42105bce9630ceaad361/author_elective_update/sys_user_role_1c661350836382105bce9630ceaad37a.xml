@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1213139_cp.cp.access</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>cp.access</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 14:22:48</sys_created_on>
+        <sys_id>1c661350836382105bce9630ceaad37a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1213139_cp.cp.access</sys_name>
+        <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
+        <sys_update_name>sys_user_role_1c661350836382105bce9630ceaad37a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 14:22:48</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CP">b570c4a983db42105bce9630ceaad361</application>
+        <file_path/>
+        <instance_id>83770f171bb939506a85eb9b2d4bcbc6</instance_id>
+        <instance_name>dev187203</instance_name>
+        <name>sys_user_role_1c661350836382105bce9630ceaad37a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1213139_cp.cp.access</name><scoped_admin>false</scoped_admin><suffix>cp.access</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-18 14:22:48</sys_created_on><sys_id>1c661350836382105bce9630ceaad37a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1213139_cp.cp.access</sys_name><sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package><sys_policy/><sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope><sys_update_name>sys_user_role_1c661350836382105bce9630ceaad37a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-18 14:22:48</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-2058823730</payload_hash>
+        <record_name>x_1213139_cp.cp.access</record_name>
+        <reverted_from/>
+        <source>3da754e1831f42105bce9630ceaad307</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 14:22:48</sys_created_on>
+        <sys_id>73669750836382105bce9630ceaad361</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190c639640a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 14:22:48</sys_updated_on>
+        <type>Role</type>
+        <update_guid>776697509a638210791c42f9b86a4460</update_guid>
+        <update_guid_history>776697509a638210791c42f9b86a4460:-2058823730</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1213139_cp.cp.access">7afb5b58836382105bce9630ceaad3fe</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 14:47:03</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>42f97cbf76464820ad1786c695335100</sys_id>
+        <sys_metadata>1c661350836382105bce9630ceaad37a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1213139_cp.cp.access</sys_name>
+        <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
+        <sys_scope_delete display_value="">3baf784c7ce24b948f7376c5985ff224</sys_scope_delete>
+        <sys_update_name>sys_user_role_1c661350836382105bce9630ceaad37a</sys_update_name>
+        <sys_update_version display_value="sys_user_role_1c661350836382105bce9630ceaad37a">73669750836382105bce9630ceaad361</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 14:47:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles>x_1213139_cp.cp.access</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 14:23:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ee769350836382105bce9630ceaad397</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CP</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
+        <sys_update_name>sys_app_application_ee769350836382105bce9630ceaad397</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 14:23:07</sys_updated_on>
+        <title>CP</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CP">b570c4a983db42105bce9630ceaad361</application>
+        <file_path/>
+        <instance_id>83770f171bb939506a85eb9b2d4bcbc6</instance_id>
+        <instance_name>dev187203</instance_name>
+        <name>sys_app_application_ee769350836382105bce9630ceaad397</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles>x_1213139_cp.cp.access</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-18 14:23:07</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ee769350836382105bce9630ceaad397</sys_id><sys_mod_count>0</sys_mod_count><sys_name>CP</sys_name><sys_overrides/><sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package><sys_policy/><sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope><sys_update_name>sys_app_application_ee769350836382105bce9630ceaad397</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-18 14:23:07</sys_updated_on><title>CP</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>469557921</payload_hash>
+        <record_name>CP</record_name>
+        <reverted_from/>
+        <source>3da754e1831f42105bce9630ceaad307</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 14:23:08</sys_created_on>
+        <sys_id>a4869750836382105bce9630ceaad365</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190c639b0f00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 14:23:08</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>a8869750a36382103fe6c7389acec264</update_guid>
+        <update_guid_history>a8869750a36382103fe6c7389acec264:469557921</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CP">e8191354836382105bce9630ceaad3b2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-18 14:34:19</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>25fa154040354a489283d70f2b2d3004</sys_id>
+        <sys_metadata>ee769350836382105bce9630ceaad397</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>CP</sys_name>
+        <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
+        <sys_scope_delete display_value="">3baf784c7ce24b948f7376c5985ff224</sys_scope_delete>
+        <sys_update_name>sys_app_application_ee769350836382105bce9630ceaad397</sys_update_name>
+        <sys_update_version display_value="sys_app_application_ee769350836382105bce9630ceaad397">a4869750836382105bce9630ceaad365</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-18 14:34:19</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

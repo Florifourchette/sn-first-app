@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="DELETE">
+        <active>true</active>
+        <hint/>
+        <name>faq</name>
+        <order/>
+        <roles>x_1213139_cp.faq_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 09:49:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>bf0bc9f183d302105bce9630ceaad3dd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>faq</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
+        <sys_update_name>sys_ui_application_bf0bc9f183d302105bce9630ceaad3dd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 09:49:03</sys_updated_on>
+    </sys_ui_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="CP">b570c4a983db42105bce9630ceaad361</application>
+        <file_path/>
+        <instance_id>83770f171bb939506a85eb9b2d4bcbc6</instance_id>
+        <instance_name>dev187203</instance_name>
+        <name>sys_ui_application_bf0bc9f183d302105bce9630ceaad3dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application"><sys_ui_application action="INSERT_OR_UPDATE"><active>true</active><hint/><name>faq</name><order/><roles>x_1213139_cp.faq_user</roles><sys_class_name>sys_ui_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-10 09:49:03</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>bf0bc9f183d302105bce9630ceaad3dd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>faq</sys_name><sys_overrides/><sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package><sys_policy/><sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope><sys_update_name>sys_ui_application_bf0bc9f183d302105bce9630ceaad3dd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-10 09:49:03</sys_updated_on></sys_ui_application></record_update>]]></payload>
+        <payload_hash>-1164415031</payload_hash>
+        <record_name>faq</record_name>
+        <reverted_from/>
+        <source>3da754e1831f42105bce9630ceaad307</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 09:49:03</sys_created_on>
+        <sys_id>b30b0df183d302105bce9630ceaad306</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1909c0be3440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 09:49:03</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>770b0df17dd30210d4dffe8e1e926205</update_guid>
+        <update_guid_history>770b0df17dd30210d4dffe8e1e926205:-1164415031</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-10 14:17:48</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_application">sys_ui_application</sys_db_object>
+        <sys_id>16293339a3d946ef985fc08d30938249</sys_id>
+        <sys_metadata>bf0bc9f183d302105bce9630ceaad3dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>faq</sys_name>
+        <sys_package display_value="CP" source="x_1213139_cp">b570c4a983db42105bce9630ceaad361</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="CP">b570c4a983db42105bce9630ceaad361</sys_scope>
+        <sys_scope_delete display_value="">3baf784c7ce24b948f7376c5985ff224</sys_scope_delete>
+        <sys_update_name>sys_ui_application_bf0bc9f183d302105bce9630ceaad3dd</sys_update_name>
+        <sys_update_version display_value="sys_ui_application_bf0bc9f183d302105bce9630ceaad3dd">b30b0df183d302105bce9630ceaad306</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-10 14:17:48</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
